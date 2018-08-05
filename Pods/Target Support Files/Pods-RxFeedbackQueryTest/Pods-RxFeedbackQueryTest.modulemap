@@ -1,0 +1,6 @@
+module Pods_RxFeedbackQueryTest {
+  umbrella header "Pods-RxFeedbackQueryTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
